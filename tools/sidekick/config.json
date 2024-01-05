@@ -4,6 +4,12 @@
       "id": "foo",
       "title": "Foo",
       "url": "/tools/sidekick/foo.html"
+    },
+
+    {
+      "id": "bar",
+      "title": "Bar",
+      "url": "/tools/sidekick/foo.html"
     }
   ]
 }
