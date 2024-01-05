@@ -10,6 +10,13 @@
       "id": "bar",
       "title": "Bar",
       "url": "/tools/sidekick/foo.html"
+    },
+
+
+    {
+      "id": "library",
+      "title": "Library",
+      "url": "/tools/sidekick/library.html"
     }
   ]
 }
