@@ -3,8 +3,7 @@
     {
       "id": "foo",
       "title": "Foo",
-      "url": "/tools/sidekick/foo.html",
-      "isPalette": true
+      "url": "/tools/sidekick/foo.html"
     }
   ]
 }
